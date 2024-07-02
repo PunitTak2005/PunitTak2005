@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main(){
+
+  int a = 10, b;
+
+  b = a;      // Here, b is 10
+
+  printf("b = %d\n", b);
+
+  b += a;     // Here, b is 20
+
+  printf("b = %d\n", b);
+
+  b -= a;     // Here, b is 10
+
+  printf("b = %d\n", b);
+
+  b *= a;     // Here, b is 100
+
+  printf("b = %d\n", b);
+
+  b /= a;     // Here, b is 10
+
+  printf("b = %d\n", b);
+
+  b %= a;     // Here, b = 0
+
+  printf("b = %d\n", b);
+
+  return 0;
+
+}
