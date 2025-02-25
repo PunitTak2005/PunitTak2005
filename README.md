@@ -53,8 +53,8 @@ I am a 2nd-year BTech student in Computer Science Engineering at Techno India NJ
 - **Introduction to Azure AI Studio** - Microsoft Learn  
 - **Responsible Generative AI in AI Studio** - Microsoft Learn  
 
-## 🔥 GitHub Streak  
-![Punit Tak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PunitTak2005&theme=tokyonight&hide_border=true)  
+![🔥 Punit Tak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PunitTak2005&theme=radical&border_radius=12&fire=FF9500&currStreakLabel=00FFFF&stroke=7F00FF&background=000000&border=FF00FF&sideNums=FFD700&dates=FF69B4)
+
 
 ## 📬 Contact  
 - **📞 Phone:** 6367088841  
