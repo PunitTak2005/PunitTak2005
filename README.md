@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: There's always work to be done, but it's passion and creativity that make life exciting and fulfilling!  
 
-I am a 2nd-year BTech student in Computer Science Engineering at Techno India NJR Institute of Technology, affiliated with Rajasthan Technical University. My interests include:  
+I am a 3rd-year BTech student in Computer Science Engineering at Techno NJR Institute of Technology, affiliated with Rajasthan Technical University. My interests include:  
 - 🤖 Artificial Intelligence  
 - ☁️ Cloud Science Labs  
 - 🛡️ Cybersecurity  
