@@ -38,13 +38,10 @@ I am a 3rd-year BTech student in Computer Science Engineering at Techno NJR Inst
 - **Soft Skills:** Communication, Critical Thinking, Problem Solving  
 
 ## 🚀 Projects  
-1. **FIR Assistance System**  
-   📝 An AI-based system to recommend appropriate legal sections and acts for incidents described in complaints, improving FIR accuracy.  
-
-2. **Krishi Sanchaya App**  
+1. **Krishi Sanchaya App**  
    🌾 A solution for agricultural waste management by collecting waste crop materials from farmers and outsourcing them for sale.  
 
-3. **Smart Road Mapping Website**  
+2. **Smart Road Mapping Website**  
    🗺️ Created an elegant, user-friendly web application to enhance road navigation.  
 
 ## 🏅 Certifications  
