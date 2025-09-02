@@ -106,9 +106,7 @@ Multiple Credly Badges in: Agile Development, Business Acumen, Creative Thinking
 
 "Always strive for progress, not perfection."
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PunitTak2005&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunitTak2005&theme=radical" alt="GitHub Streak" />
