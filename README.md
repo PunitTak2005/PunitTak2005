@@ -88,8 +88,6 @@ Multiple Credly Badges in: Agile Development, Business Acumen, Creative Thinking
 
 📊 Achievements & Extracurriculars
 
-🏆 Recognized as Best Speaker/Debater in college.
-
 🎤 Passionate about singing and performing arts.
 
 📜 Strong background in technical communication and advanced engineering mathematics.
