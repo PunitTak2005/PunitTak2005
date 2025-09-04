@@ -105,11 +105,6 @@ Multiple Credly Badges in: Agile Development, Business Acumen, Creative Thinking
 "Always strive for progress, not perfection."
 
 
-
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=punittak2005)](https://git.io/streak-stats)
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunitTak2005&layout=compact&theme=radical" alt="Top Languages" />
 </p>
