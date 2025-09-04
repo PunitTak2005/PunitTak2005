@@ -107,7 +107,7 @@ Multiple Credly Badges in: Agile Development, Business Acumen, Creative Thinking
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunitTak2005&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=punittak2005)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
