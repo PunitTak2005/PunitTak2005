@@ -1,114 +1,73 @@
-Punit Tak's Profile
+# 👋 Hi, I'm Punit Tak
 
-✨ A dedicated and technically proficient professional with a strong foundation in advanced engineering mathematics, technical communication, and generative AI. Passionate about using technology to drive innovation, efficiency, and impactful solutions.
+I'm a Computer Science student who loves **problem solving**, data structures & algorithms, and building practical projects in C++ and Python.
 
-🙋‍♂️ About Me
+---
 
-👋 Hi, I’m Punit Tak, a Computer Science Engineering student with a strong drive for innovation, learning, and problem-solving.
+## 🧠 What I work on
 
-🌍 I am deeply curious about Science and Technology and how creativity can transform ideas into real-world solutions.
+- Data structures and algorithms (daily practice on platforms like LeetCode / GfG)
+- Backend logic and database‑driven applications
+- Cloud fundamentals and AI basics (Azure AI Studio, Responsible GenAI)
+- Clean, readable code with GitHub for version control
 
-🤝 I actively seek opportunities to collaborate on innovative projects that can create meaningful impact.
+---
 
-😄 Pronouns: He/Him
+## 🚀 Projects
 
-⚡ Fun fact: There’s always work to be done, but it’s passion and creativity that make the journey exciting and fulfilling!
+- **Job Recruitment System**  
+  Built a MySQL‑based system to manage job listings, applicant profiles, and application records, helping automate and streamline the recruitment workflow.  
+  Tech: MySQL, SQL queries, basic backend logic, DB design.
 
-🎓 Currently in my 3rd year of B.Tech (CSE) at Techno NJR Institute of Technology, affiliated with Rajasthan Technical University.
+- **Career Counselling & Guidance (Hackathon Project)**  
+  Multi‑feature solution for school students including:  
+  - Chatbot for student queries  
+  - Psychometric test for career mapping  
+  - Mentorship session booking  
+  - Information on university admissions, scholarships, and freelancing skills  
+  Aim: Improve access to structured career counselling in schools.
 
-My areas of interest include:
+*(More projects coming soon as I continue building and pushing to GitHub.)*
 
-🤖 Artificial Intelligence
+---
 
-☁️ Cloud Computing & Labs
+## 🎓 Certificates & Training
 
-🛡️ Cybersecurity
+- Python beginner’s project – MyGreatLearning. [page:1]  
+- Python training under Naresh Mali Sir at Techno India NJR. [page:1]  
+- **Cloud & AI**  
+  - Cloud Foundations – Great Learning Academy [page:1]  
+  - Describe Cloud Service Types – Microsoft Learn [page:1]  
+  - Introduction to Azure AI Studio – Microsoft Learn [page:1]  
+  - Responsible Generative AI in AI Studio – Microsoft Learn [page:1]  
+- **Credly badges** in: Agile Development, Business Acumen, Creative Thinking, Data Visualization, Communication, Problem Solving, Emotional Intelligence, Presentation Skills, and more. [page:1]
 
-💻 Software Development
+---
 
-🧠 Generative AI
-
-🌐 Web & App Development
-
-🛠️ Skills
-
-Programming Languages: C, C++, Python, Java
-
-Web Development: HTML, CSS, JavaScript, Streamlit, React Native
-
-Databases: SQL, MongoDB, Firebase
-
-Frameworks & Tools: FastAPI, AWS
-
-Core Strengths: Communication, Critical Thinking, Problem Solving, Collaboration
-
-🚀 Projects & Work
-
-Krishi Sanchaya App
-🌾 An innovative solution for agricultural waste management, enabling farmers to sell waste crop materials through an outsourcing system.
-
-Smart Road Mapping Website
-🗺️ Developed a user-friendly, reliable web application to enhance road navigation with an elegant interface.
-
-Tak Pharma (SRS Design)
-💊 Designed a Software Requirements Specification (SRS) for a pharmaceutical app, focusing on skin and hair care products.
-
-Job Recruitment System
-📄 Built a system using MySQL to manage job listings, applicant profiles, and application records, streamlining the recruitment process.
-
-Career Counselling & Guidance (Hackathon Project)
-🎓 Built a multi-feature solution including:
-
-Chatbot for student queries
-
-Psychometric test for career mapping
-
-Mentorship sessions
-
-Information on university admissions, scholarships, and freelancing skills
-✅ Aim: To improve career counselling in schools.
-
-Certificates & Training Projects
-
-Completed a Python beginner’s project under MyGreatLearning.
-
-Trained in Python under Naresh Mali Sir at Techno India NJR.
-
-🏅 Certifications
-
-Cloud Foundations – Great Learning Academy
-
-Describe Cloud Service Types – Microsoft Learn
-
-Introduction to Azure AI Studio – Microsoft Learn
-
-Responsible Generative AI in AI Studio – Microsoft Learn
-
-Multiple Credly Badges in: Agile Development, Business Acumen, Creative Thinking, Data Visualization, Communication, Problem Solving, Emotional Intelligence, Presentation Skills, and more.
-
-📊 Achievements & Extracurriculars
-
-🎤 Passionate about singing and performing arts.
-
-📜 Strong background in technical communication and advanced engineering mathematics.
-
-📬 Contact
-
-📞 Phone: 6367088841
-
-✉️ Email: punittak2005@gmail.com
-
-🔗 LinkedIn: Punit Tak
-
-🐙 GitHub: PunitTak2005
-
-"Always strive for progress, not perfection."
-
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunitTak2005&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📊 Achievements & Interests
+
+- Strong background in technical communication and advanced engineering mathematics. [page:1]  
+- Active in coding practice, competitive programming, and project‑based learning.
+- Passionate about music and performing arts. [page:1]
+
+---
+
+## 📬 Contact
+
+- 📞 Phone: 6367088841 [page:1]  
+- ✉️ Email: [punittak2005@gmail.com](mailto:punittak2005@gmail.com) [page:1]  
+- 🔗 LinkedIn: *Punit Tak*  
+- 🐙 GitHub: [PunitTak2005](https://github.com/PunitTak2005) [page:1]  
+
+> “Always strive for progress, not perfection.”
