@@ -109,10 +109,10 @@ Tech: MySQL, SQL, backend logic, DB design
 
 ---
 
-## 🎓 Certificates & Training
+## 🎓Trainings
 
-- Python beginner's project – MyGreatLearning  
-- Python training under Naresh Mali Sir at Techno India NJR  
+- MERN STACK TRAINING - GRRAS SOLUTIONS
+- DEVOPS TRAINING - GRRAS SOLUTIONS
 
 **Cloud & AI**
 
@@ -125,7 +125,24 @@ Tech: MySQL, SQL, backend logic, DB design
 
 - RHCSA  
 - Microsoft Azure AI Fundamentals  
-- OCI AI Foundations Associate  
+- OCI AI Foundations Associate
+
+  **Certifications at GreatLearning**
+- Python Beginner's Project
+- Python Class
+- TensorFlow Python
+- Python Matplotlib
+- Functions in Python
+- Packages in Python
+- Python Data Structures
+- Python Pandas
+- Python MySQL
+- Python Tkinter
+- Python List
+- Cloud Foundations
+- Python IDLE
+
+  
 
 ---
 
