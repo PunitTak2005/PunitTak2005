@@ -86,7 +86,7 @@ Tech: MySQL, SQL, backend logic, DB design
 
 ## 💻 Tech Stack & Skills
 
-### Tech Stack Icons
+### Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,html,css,git,github,linux,postgresql,mysql,docker" />
