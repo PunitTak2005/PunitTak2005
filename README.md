@@ -76,13 +76,11 @@ A full-stack academic scheduling platform for managing academic events and users
 
 **Tech:** React.js, REST APIs, JWT Authentication, RBAC
 
-> Repository link will be added soon.
-
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures and Algorithms
+- Advanced data structures and algorithms
 - System design fundamentals
 - AI application development and RAG concepts
 - Docker-based deployment and cloud technologies
@@ -94,13 +92,13 @@ A full-stack academic scheduling platform for managing academic events and users
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PunitTak2005&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Punit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PunitTak2005&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/PunitTak2005)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PunitTak2005&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/PunitTak2005)
-
 ---
 
 ## 🤝 Let's Connect
 
 - GitHub: [@PunitTak2005](https://github.com/PunitTak2005)
-- LinkedIn: [linkedin.com/in/punit-tak-2005cse](https://www.linkedin.com/in/punit-tak
+- LinkedIn: [linkedin.com/in/punit-tak-2005cse](https://www.linkedin.com/in/punit-tak-2005cse)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
